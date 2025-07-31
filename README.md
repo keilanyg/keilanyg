@@ -1,4 +1,4 @@
-## 💻 Front-End Jr | UX/UI Enthusiast  
+## 💻 Front-End | UX/UI Enthusiast  
 
 🎓 Formada em **Análise e Desenvolvimento de Sistemas**  
 🎨 Apaixonada por **interfaces intuitivas** e **experiência do usuário**  
