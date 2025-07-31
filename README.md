@@ -1,6 +1,6 @@
 ## :computer: Olá, Bem-vinda(o) !
 <div>
-      :books: Sou Graduanda em Análise e Desenvolvimento de Sistemas.
+      :books: Sou Formada em Análise e Desenvolvimento de Sistemas.
       A área de Front-end e UX/UI Design, parte visual do sistema, ganha minha atenção.<br/>
       Essa admiração pelo mundo do desenvolvimento começou durante a graduação.     
 </div><br/>
